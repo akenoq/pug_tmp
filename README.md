@@ -1,5 +1,4 @@
-# 2017_2_brainstorm
+commit 1 - только pug в index.pug
+commit 2 - pug скрипт заинклюжен в hello.html
 
-## Смотреть:
-### https://brainst0rm.herokuapp.com/
-[![Build Status](https://travis-ci.org/frontend-park-mail-ru/2017_2_brainstorm.svg?branch=master)](https://travis-ci.org/frontend-park-mail-ru/2017_2_brainstorm)
+меняется только index.js сервера
